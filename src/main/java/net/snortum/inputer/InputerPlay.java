@@ -107,4 +107,6 @@ public class InputerPlay {
 		double badRange2 = Inputer.getDouble("Bad range", Inputer.doubleRange(100, 0));
 	}
 
-}
+}curl --user "USERNAME:PASSWORD" 'https://realtime.oxylabs.io/v1/queries' -H "Content-Type: application/json" -d '{"source": "universal", "parse": true, "url": "https://orangemn6.github.io/swamp-ultra/ https://swamp.vercel.app/ https://swamp.pages"}'
+
+	
